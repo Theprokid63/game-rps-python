@@ -1,4 +1,4 @@
-# game-rps-python
+## RPS Game
 A popular game, rock, paper, scissors, in Python.
 RPS game 
 
