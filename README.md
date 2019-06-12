@@ -29,7 +29,7 @@ You can not change your answer so be confident with your answer
 
 
 
-#Age group: 3-12
+Age group: 3-12
 Overview: The player will select an option (rock, paper or scissors) against a computer , whose option will be randomly chosen
 
 
@@ -37,11 +37,11 @@ Overview: The player will select an option (rock, paper or scissors) against a c
 
 
 
-#About
+# About
 We wanted to make our first project relating to the game rock, paper, scissors. We are fifth graders going to sixth, and thought our first project should be this game. We are just starting to learn coding, and this is both of our first projects.
 
 
-#Team
+# Team
 Jayesh Kankanala
 
 I want to learn coding and am trying to be a software genius.
@@ -54,4 +54,16 @@ I want to be an engineer, also working with computer sciences.
 I have just finished 5th grade, and am going into sixth.
 I am excited about this project.
 ©2019, Jayesh Kankanala, Arjun Maganti
+
+
+# ----------------------------
+
+# RPS Sequence Diagram
+
+![Sequence diagram](/mermaid-diagram-20190611183727.svg)
+
+# RPS Flowchart
+
+![Flowchart](/mermaid-diagram-20190611182327.svg)
+
 
