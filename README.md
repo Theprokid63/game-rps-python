@@ -68,17 +68,15 @@ I am excited about this project.
 
 # Pseudo Code
 
- Pseudo Code
-
 Variables
 
-user_selection
+    user_selection
 
-computer_selection
+    computer_selection
 
-Vocabulary = {“R”: “ROCK”, “P”: “PAPER”, “S”: “SCISSORS”}
+    Vocabulary = {“R”: “ROCK”, “P”: “PAPER”, “S”: “SCISSORS”}
 
-User flow
+User Flow
 
     Input “Do you want to play rock, paper, scissors? Y(Yes), N(No)”
 
