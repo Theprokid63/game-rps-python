@@ -132,7 +132,7 @@ User Flow
                     
                     Print “You lost to a computer. Please go try hard mode next time :(” 
                     
-                    JUMP TO 2.a
+                    JUMP TO 2.a 
 
 
 
