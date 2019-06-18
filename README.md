@@ -89,6 +89,7 @@ User flow
             JUMP TO 2.a
        
        if N 
+            
             Print “Thank you for playing rock, paper, scissors. Come back soon!”
             
             END GAME
@@ -98,6 +99,7 @@ User flow
             Computer selects randomly one of the choices
             
             input “I picked my choice, please select one of these three choices, Rock, Paper, or Scissors. R(Rock), P(Paper), S(Scissors)”
+                
                 if not [“R, P, S”] 
               
                     Print “Sorry, you have failed spelling. Please try harder :D.”
